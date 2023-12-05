@@ -3,4 +3,4 @@
   /flaming-hydra/: /omg-on-fire/
 302:
   # temp landing page
-  /: /welcome/
+  ^\/$: /welcome/
