@@ -1,6 +1,7 @@
 301:
   # renamed posts
   /flaming-hydra/: /omg-on-fire/
+  /tip-jar/: /donate/
 302:
   # temp landing page
   ^\/$: /welcome/
