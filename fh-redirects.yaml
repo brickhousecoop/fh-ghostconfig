@@ -2,6 +2,8 @@
   # renamed posts
   /flaming-hydra/: /omg-on-fire/
   /tip-jar/: /donate/
+  /gift-subscriptions/: /gift/
+  /gift-subscription/: /gift/
 302:
   # temp landing page
   ^\/$: /welcome/
