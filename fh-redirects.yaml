@@ -1,6 +1,6 @@
 301:
   # renamed posts
-  /flaming-hydra/: /omg-on-fire/
+  ^\/flaming-hydra\/?$: /omg-on-fire/
   /tip-jar/: /donate/
   /gift-subscriptions/: /gift/
   /gift-subscription/: /gift/
