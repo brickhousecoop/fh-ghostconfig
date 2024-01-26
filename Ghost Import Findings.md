@@ -26,7 +26,3 @@ Tested on JOE MACLEOD. Even though he was already a free subscriber he bumped up
 ## Test 006: comping vs. not comping existing active Stripe subscribers
 
 Both show up as active `Paid` subs, not comped! Good to know.
-
-## Post-import
-
-- [ ] dfmoskovitz@gmail.com may need to be manually reset to Founding Member (was victim of test 004, deleting now)
