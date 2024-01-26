@@ -9,5 +9,5 @@ collections:
     template: index
 
 taxonomies:
-  tag: /tag/{slug}/
+  tag: /{slug}/
   author: /author/{slug}/
