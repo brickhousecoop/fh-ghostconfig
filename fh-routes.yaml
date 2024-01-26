@@ -10,4 +10,4 @@ collections:
 
 taxonomies:
   tag: /{slug}/
-  author: /author/{slug}/
+  author: /contributor/{slug}/

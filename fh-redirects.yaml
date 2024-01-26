@@ -7,3 +7,4 @@
 302:
   # temp landing page
   ^\/$: /welcome/
+  ^\/author\/([a-z0-9-]+)\/$: /contributor/$1
