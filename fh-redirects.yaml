@@ -5,6 +5,8 @@
   /gift-subscriptions/: /gift/
   /gift-subscription/: /gift/
   ^\/author\/([a-z0-9-]+)\/$: /contributor/$1
+  # convenience
+  ^\/subscribe\/$: /#/portal/signup
 302:
   # temp landing page
   ^\/$: /welcome/
