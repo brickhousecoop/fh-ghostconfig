@@ -1,8 +1,3 @@
-routes:
-  /secret-homepage-preview/:
-    controller: channel
-    template: homepage
-
 collections:
   /:
     permalink: /{slug}/
