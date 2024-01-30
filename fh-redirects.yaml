@@ -1,9 +1,9 @@
 301:
   # renamed posts/pages
   ^\/flaming-hydra\/?$: /omg-on-fire/
-  /tip-jar/: /donate/
-  /gift-subscriptions/: /gift/
-  /gift-subscription/: /gift/
+  ^\/tip-jar\/?: /donate/
+  ^\/gift-subscriptions\/?: /gift/
+  ^\/gift-subscription\/?: /gift/
   # renamed routes
   ^\/author\/([a-z0-9-]+)\/$: /contributor/$1
   # convenience
