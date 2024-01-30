@@ -10,4 +10,4 @@
   ^\/subscribe\/$: /#/portal/signup
 302:
   # temp landing page
-  ^\welcome/$: /
+  ^\/welcome\/$: /
