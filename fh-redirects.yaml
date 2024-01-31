@@ -1,5 +1,6 @@
 301:
   # renamed posts/pages
+  ^\/preview\/?$: /issue-0/
   ^\/flaming-hydra\/?$: /omg-on-fire/
   ^\/tip-jar\/?: /donate/
   ^\/gift-subscriptions\/?: /gift/
