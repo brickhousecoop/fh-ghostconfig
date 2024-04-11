@@ -3,8 +3,7 @@
   ^\/preview\/?$: /issue-0/
   ^\/flaming-hydra\/?$: /omg-on-fire/
   ^\/tip-jar\/?: /donate/
-  ^\/gift-subscriptions\/?: /gift/
-  ^\/gift-subscription\/?: /gift/
+  ^\/gift-subscriptions?\/?: /gift/
   # typos
   ^\/stealth-baby-incidental-tourists\/?: /issue-37/
   ^\/the-united-states-of-nigerian-writers-the-peaceful-untidy-home\/?: /issue-42/
