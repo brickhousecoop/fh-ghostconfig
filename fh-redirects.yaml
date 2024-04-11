@@ -5,6 +5,9 @@
   ^\/tip-jar\/?: /donate/
   ^\/gift-subscriptions\/?: /gift/
   ^\/gift-subscription\/?: /gift/
+  # typos
+  ^\/stealth-baby-incidental-tourists\/?: /issue-37/
+  ^\/the-united-states-of-nigerian-writers-the-peaceful-untidy-home\/?: /issue-42/
   # renamed routes
   ^\/author\/([a-z0-9-]+)\/$: /contributor/$1
   # convenience
