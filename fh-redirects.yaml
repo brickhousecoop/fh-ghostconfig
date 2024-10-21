@@ -8,6 +8,7 @@
   ^\/stealth-baby-incidental-tourists\/?: /issue-37/
   ^\/the-united-states-of-nigerian-writers-the-peaceful-untidy-home\/?: /issue-42/
   ^\/issue-102-2\/?: /issue-102/
+  ^\/shelf-portrait\/?: /issue-182/ 
   # renamed routes
   ^\/author\/([a-z0-9-]+)\/$: /contributor/$1
   # convenience
