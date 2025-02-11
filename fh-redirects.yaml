@@ -9,7 +9,7 @@
   ^\/the-united-states-of-nigerian-writers-the-peaceful-untidy-home\/?: /issue-42/
   ^\/issue-102-2\/?: /issue-102/
   ^\/13-real-terrifyingly-specific-trump-campaign-promises-2\/?: /13-real-terrifyingly-specific-trump-campaign-promises/
-  ^\/shelf-portrait\/?: /issue-182/ 
+  ^\/shelf-portrait\/?: /issue-182/
   ^\/obsessive-sleuthing\/?: /issue-251/
   # renamed routes
   ^\/author\/([a-z0-9-]+)\/$: /contributor/$1
