@@ -11,6 +11,7 @@
   ^\/13-real-terrifyingly-specific-trump-campaign-promises-2\/?: /13-real-terrifyingly-specific-trump-campaign-promises/
   ^\/shelf-portrait\/?: /issue-182/
   ^\/obsessive-sleuthing\/?: /issue-251/
+  ^\/film-a-hand-break-a-leg\/?: /issue-300/
   # renamed routes
   ^\/author\/([a-z0-9-]+)\/$: /contributor/$1
   # convenience
