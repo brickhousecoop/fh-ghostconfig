@@ -12,6 +12,7 @@
   ^\/shelf-portrait\/?: /issue-182/
   ^\/obsessive-sleuthing\/?: /issue-251/
   ^\/film-a-hand-break-a-leg\/?: /issue-300/
+  ^\/birds-and-bees-political-potency\/?: /issue-320/
   # renamed routes
   ^\/author\/([a-z0-9-]+)\/$: /contributor/$1
   # convenience
