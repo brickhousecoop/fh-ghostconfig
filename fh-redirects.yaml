@@ -4,7 +4,7 @@
   ^\/flaming-hydra\/?$: /omg-on-fire/
   ^\/tip-jar\/?: /donate/
   ^\/gift-subscriptions?\/?: /gift/
-  # typos
+  # typos and other mistakes
   ^\/stealth-baby-incidental-tourists\/?: /issue-37/
   ^\/the-united-states-of-nigerian-writers-the-peaceful-untidy-home\/?: /issue-42/
   ^\/issue-102-2\/?: /issue-102/
@@ -13,10 +13,13 @@
   ^\/obsessive-sleuthing\/?: /issue-251/
   ^\/film-a-hand-break-a-leg\/?: /issue-300/
   ^\/birds-and-bees-political-potency\/?: /issue-320/
+  ^\/email/9fe861f8-7040-41fb-8d63-d16dcac786c2\/?: /issue-333/
+  ^\/issue-333-2\/?: /issue-333/
   # renamed routes
   ^\/author\/([a-z0-9-]+)\/$: /contributor/$1
   # convenience
   ^\/subscribe\/$: /#/portal/signup
+  ^\/awl-offer\/$: https://flaminghydracom.outpost.pub/public/subscribe-hash/ZDAzM2Y2YTQtYmY4NC00ZWQ0LTg2M2ItOWI0NzZiYWQ4MTlhfHxwbGFuX1NnelkzbXBQTU5UZFdo#/
 302:
   # temp landing page
   ^\/welcome\/?$: /
