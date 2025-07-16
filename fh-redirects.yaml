@@ -19,7 +19,7 @@
   ^\/author\/([a-z0-9-]+)\/$: /contributor/$1
   # convenience
   ^\/subscribe\/$: /#/portal/signup
-  ^\/awl-offer\/$: https://flaminghydracom.outpost.pub/public/subscribe-hash/ZDAzM2Y2YTQtYmY4NC00ZWQ0LTg2M2ItOWI0NzZiYWQ4MTlhfHxwbGFuX1NoMW85VkFpQWN5cmlS
+  ^\/awl-offer\/$: https://flaminghydracom.outpost.pub/public/subscribe-hash/ZDAzM2Y2YTQtYmY4NC00ZWQ0LTg2M2ItOWI0NzZiYWQ4MTlhfHxwbGFuX1NoMXV4RVFkeDk5VVdk
 302:
   # temp landing page
   ^\/welcome\/?$: /
