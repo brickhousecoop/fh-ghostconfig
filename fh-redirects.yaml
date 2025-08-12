@@ -20,6 +20,28 @@
   # convenience
   ^\/subscribe\/$: /#/portal/signup
   ^\/awl-offer\/$: https://flaminghydracom.outpost.pub/public/subscribe-hash/ZDAzM2Y2YTQtYmY4NC00ZWQ0LTg2M2ItOWI0NzZiYWQ4MTlhfHxwbGFuX1NqRFFya2xBRmNINk1C
+  # SEO slug updates
+  ^\/language-is-always-a-weapon\/$: /gaza-israel-nakba-palestine-2024/
+  ^\/stupid-things-i-did-in-my-early-30s\/$: /should-you-quit-your-job-unfulfilled-regret/
+  ^\/talking-and-talking-about-polyamory\/$: /polyamory-open-marriage-does-it-work/
+  ^\/on-oppenheimer\/$: /oppenheimer-film-review-cillian-murphy/
+  ^\/land-of-enchantment\/$: /california-joshua-tree-desert-experience/
+  ^\/kim-kellys-riff-wrecks-vol-1\/$: /narzissus-ghoul-hulder-brat-album-reviews/
+  ^\/media-proles\/$: /journalism-industry-class-tension/
+  ^\/chicken-of-the-corn\/$: /spain-foodie-tour-san-sebastian-madrid/
+  ^\/how-to-sell-your-book-with-your-belly-button\/$: /do-writers-have-to-network-at-events/
+  ^\/a-neighborhood-named-river-of-blood\/$: /china-taiwan-indonesia-history-angke-river-of-blood/
+  ^\/spare-rooms\/$: /hgtv-waco-culture-home-design/
+  ^\/how-to-write-good\/$: /writing-tips-from-a-professional/
+  ^\/pen-america-wont-listen\/$: /pen-america-protest-gaza-genocide/
+  ^\/one-person-one-vote\/$: /electoral-college-risk-to-democracy/
+  ^\/my-oldest-kid-keeps-saying-fuck\/$: /toddler-keeps-swearing-what-do-i-do/
+  ^\/what-was-playboy\/$: /playboy-magazine-legacy-great-writing/
+  ^\/love-work\/$: /underground-music-scene-punk-solidarity/
+  ^\/behind-prison-walls\/$: /journalist-sent-to-prison-for-reporting/
+  ^\/marriage-story\/$: /should-i-get-married-if-i-dont-want-to/
+  ^\/time-is-a-stuck-record\/$: /kate-bush-fleetwood-mac-go-viral-2020s/
+  ^\/smart-and-handsome-boys\/$: /how-ceos-destroy-websites/
 302:
   # temp landing page
   ^\/welcome\/?$: /
