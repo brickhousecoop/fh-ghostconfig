@@ -15,6 +15,7 @@
   ^\/birds-and-bees-political-potency\/?: /issue-320/
   ^\/email/9fe861f8-7040-41fb-8d63-d16dcac786c2\/?: /issue-333/
   ^\/issue-333-2\/?: /issue-333/
+  ^\/k-pop-parley\/?: /issue-388/
   # renamed routes
   ^\/author\/([a-z0-9-]+)\/$: /contributor/$1
   # convenience
