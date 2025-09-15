@@ -43,6 +43,7 @@
   ^\/marriage-story\/$: /should-i-get-married-if-i-dont-want-to/
   ^\/time-is-a-stuck-record\/$: /kate-bush-fleetwood-mac-go-viral-2020s/
   ^\/smart-and-handsome-boys\/$: /how-ceos-destroy-websites/
+  ^\/an-antidote-to-all-the-despair-and-misery\/$: /karen-attiah-interview-2025/
 302:
   # temp landing page
   ^\/welcome\/?$: /
