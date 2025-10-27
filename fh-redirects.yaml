@@ -45,6 +45,8 @@
   ^\/smart-and-handsome-boys\/$: /how-ceos-destroy-websites/
   ^\/an-antidote-to-all-the-despair-and-misery\/$: /karen-attiah-interview-2025/
 302:
+  # Nov 1 meetup (302 for future parties)
+  ^\/party\/?$: https://luma.com/i5q45r3h
   # temp landing page
   ^\/welcome\/?$: /
   # temp full-text RSS page
