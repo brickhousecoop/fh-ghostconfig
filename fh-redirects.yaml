@@ -17,6 +17,7 @@
   ^\/issue-333-2\/?: /issue-333/
   ^\/k-pop-parley\/?: /issue-388/
   ^\/gadget-works-red-redemption\/?: /issue-436/
+  ^\/discomfort-shopping\/?: /issue-466/
   # renamed routes
   ^\/author\/([a-z0-9-]+)\/$: /contributor/$1
   # convenience
