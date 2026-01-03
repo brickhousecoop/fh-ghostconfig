@@ -18,6 +18,7 @@
   ^\/k-pop-parley\/?: /issue-388/
   ^\/gadget-works-red-redemption\/?: /issue-436/
   ^\/discomfort-shopping\/?: /issue-466/
+  ^\/lust-for-life-recessional\/?: /issue-474/
   # renamed routes
   ^\/author\/([a-z0-9-]+)\/$: /contributor/$1
   # convenience
